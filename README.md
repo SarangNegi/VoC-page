@@ -1,1 +1,1 @@
-# VoC-page
+VoC-page
